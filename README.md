@@ -2,4 +2,4 @@
 Used Kaggle's January Flight Delay Prediction Dataset (400,000+ samples)
 
 
-Neural network achieved 97% accuracy
+Neural Network achieved 97% accuracy

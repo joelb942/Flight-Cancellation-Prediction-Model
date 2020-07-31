@@ -1,4 +1,4 @@
-# Flight-Cancellation-Prediction-Model
+# Flight-Cancellation-Prediction
 Used Kaggle's January Flight Delay Prediction Dataset (400,000+ samples)
 
 Accuracies for each model:
